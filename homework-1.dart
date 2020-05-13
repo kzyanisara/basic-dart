@@ -1,5 +1,5 @@
 main() {
-  int age = 48;
+  int age = 49;
 
   if (age < 20) {
     print('Young');
